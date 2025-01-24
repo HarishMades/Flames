@@ -26,3 +26,5 @@ def names(Person_1, Person_2):
         String = String[index + 1:] + String[:index]
 
     print(String[0])
+    
+names("Jack", "Rose")
