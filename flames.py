@@ -27,4 +27,4 @@ def names(Person_1, Person_2):
 
     print(String[0])
     
-names("Jack", "Rose")
+
